@@ -1,0 +1,8 @@
+<mime-mapping>
+    <extension>mobileprovision</extension>
+    <mime-type>application/octet-stream</mime-type>
+</mime-mapping>
+<mime-mapping>
+    <extension>plist</extension>
+    <mime-type>application/XML</mime-type>
+</mime-mapping>
